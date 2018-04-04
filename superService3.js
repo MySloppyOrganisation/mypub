@@ -1,4 +1,4 @@
-// SERVICE 8
+// SERVICE 99
 var timerEvent; // In case you use a timer for fetching data
 var self; 
 var exports = module.exports = {
