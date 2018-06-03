@@ -1,7 +1,7 @@
 var timerEvent; // In case you use a timer for fetching data
 var self; 
 var exports = module.exports = {
-    
+    //
     // The Start method is called from the Host. This is where you 
     // implement your code to fetch the data and submit the message
     // back to the host.
