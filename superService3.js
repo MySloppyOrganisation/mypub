@@ -11,7 +11,7 @@ var exports = module.exports = {
         // Debug command can be used as console.log and 
         // will be vissible in the portal if you enable
         // Debug on the node
-        self.Debug('The SUPER Start method is called. Svenska ÅÄÖ.... SWOOSH!');
+        self.Debug('The SUPER Start method is called. Svenska ÅÄÖ.... Hej!');
 
         /*
         self.AddNpmPackage('npmPackage', true, function(err){
